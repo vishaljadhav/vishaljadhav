@@ -40,27 +40,28 @@ Working as a Team Lead with Masters in information management from JBIMS & Pract
 
 ## Stats:
   <a href="https://github.com/vishaljadhav" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=vishaljadhav&show_icons=true&count_private=true&line_height=40&theme=tokyonight" alt="Milan Panchal's GitHub Stats" align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=vishaljadhav&show_icons=true&count_private=true&line_height=40&theme=tokyonight" alt="Vishal Jadhav's GitHub Stats" align="left">
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=vishaljadhav&theme=tokyonight&hide_langs_below=4' />
   </a>
 
 <!-- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishaljadhav&theme=onedark)](https://github.com/milanpanchal/github-profile-trophy) 
--->
-****
+[![trophy](https://github-profile-trophy.vercel.app/?username=vishaljadhav&theme=onedark)](https://github.com/
+panchal/github-profile-trophy) 
+
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/milanpanchal/milanpanchal?style=flat-square&color=blue&logo=github">
+    <img src="https://badges.pufler.dev/visits/vishaljadhav/vishaljadhav?style=flat-square&color=blue&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/milanpanchal?style=flat-square&color=blue&logo=github">
+    <img src="https://badges.pufler.dev/years/vishaljadhav?style=flat-square&color=blue&logo=github">
   </a>
-  <a href="https://github.com/milanpanchal?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/milanpanchal?style=flat-square&color=blue&logo=github">
+  <a href="https://github.com/vishaljadhav?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/vishaljadhav?style=flat-square&color=blue&logo=github">
   </a>
-  <a href="https://gist.github.com/milanpanchal">
-    <img src="https://badges.pufler.dev/gists/milanpanchal?style=flat-square&color=blue&logo=github">
+  <a href="https://gist.github.com/vishaljadhav">
+    <img src="https://badges.pufler.dev/gists/vishaljadhav?style=flat-square&color=blue&logo=github">
   </a>
     <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/milanpanchal?style=flat-square&color=blue&logo=github">
+    <img src="https://badges.pufler.dev/commits/monthly/vishaljadhav?style=flat-square&color=blue&logo=github">
   </a>
   
+-->
