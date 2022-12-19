@@ -31,6 +31,7 @@ Working as a Team Lead with Masters in information management from JBIMS & Pract
 ## :rocket: Programming Languages:
 
 |<img align="center" alt="React Native Icon" src="https://img.icons8.com/bubbles/50/000000/react.png"/>|<img src="https://img.icons8.com/bubbles/50/000000/code-file.png"/>|<img src="https://img.icons8.com/color/50/000000/javascript.png"/>|
+<img src="https://icons8.com/icon/owWiEaAJmGKK/html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page" />|
 |:---:|:---:|:---:|
 
 ## 📫 How to reach me:
